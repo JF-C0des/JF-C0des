@@ -1,8 +1,9 @@
 # Hi 👋, I'm Jedidiah Faith
 
-### A passionate Html developer
+### A Fullstack developer
 
-- 🔭 I'm currently working on **- Web Development Projects 
+- 🔭 I'm currently working on 
+- Web Development Projects 
 - Building web applications & sharpening my security skills**
 
 - 🌱 I'm currently learning **Everything :p**
