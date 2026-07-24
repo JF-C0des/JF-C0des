@@ -2,9 +2,7 @@
 
 ### A Fullstack developer
 
-- 🔭 I'm currently working on 
-- Web Development Projects 
-- Building web applications & sharpening my security skills**
+- 🔭 I'm currently working on  Web Development Projects, web applications & sharpening my security skills
 
 - 🌱 I'm currently learning **Everything :p**
 
